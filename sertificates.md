@@ -1,3 +1,6 @@
+---
 layout: page
-title: "Сертификаты"
-permalink: /sert
+title: Сертификаты
+permalink: /sert/
+---
+цопцолпт цтпщотп о
