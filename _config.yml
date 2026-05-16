@@ -21,20 +21,22 @@
 title:  Дарья Алекситович
 email: darya.aleksitovich@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Сайт-визитка Дарьи Алекситович
   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://dashka2302.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  Dashka2302
+telegram_username: DashkaAl_2302
 
 # Build settings
-remote_theme: pages-themes/cayman@v0.2.0
-#theme: minima
+#remote_theme: jekyll/minima@1e8a445
+theme: minima
 plugins:
 - jekyll-feed
 - jekyll-remote-theme # add this line to the plugins list if you already have one
   
+repository: pages-themes/architect
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
