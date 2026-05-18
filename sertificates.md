@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Сертификаты
+title: Образование 
 permalink: /sert/
 ---
 
