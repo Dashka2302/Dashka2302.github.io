@@ -5,7 +5,7 @@ permalink: /sert/
 ---
 
 ### Программирование 1С 
-![Описание картинки (Alt)](/assets/images/serts/certificate.pdf){: width="200" height="150" }
+![Описание картинки (Alt)](/assets/images/serts/certificate.jpg){: width="200" height="150" }
 ![Описание картинки (Alt)](/assets/images/serts/Бизнес-процессы и задачи.jpg){: width="200" height="150" }
 ![Описание картинки (Alt)](/assets/images/serts/БСП.jpg){: width="200" height="150" }
 ![Описание картинки (Alt)](/assets/images/serts/Встроенный язык.jpg){: width="200" height="150" }
